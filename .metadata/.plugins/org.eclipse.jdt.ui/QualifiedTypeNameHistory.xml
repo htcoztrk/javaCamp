@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="homework.User"/>
+    <fullyQualifiedTypeName name="homework.logger.Logger"/>
+    <fullyQualifiedTypeName name="homework.Student"/>
+    <fullyQualifiedTypeName name="Business.StudentManager"/>
+    <fullyQualifiedTypeName name="homework.logger.FileLogger"/>
+    <fullyQualifiedTypeName name="Business.InstructorManager"/>
+    <fullyQualifiedTypeName name="homework.logger.DatabaseLogger"/>
+</qualifiedTypeNameHistroy>
