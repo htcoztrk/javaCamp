@@ -6,8 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
        Campaign campaign=new Campaign(1,"Black Friday",15);
        
-       Customer customer1=new Customer(1,"Hatice","Oz",new Date(1996,02,07),"123");
+       Customer customer1=new Customer(1,"Hatice","Oz",new Date(1996,02,07),"1234");
        Customer customer2=new Customer(2,"M","O",new Date(1996,25,06),"123");
+       Customer customer3=new Customer();
        
        Game game1=new Game(1,"PUBG",25);
        Game game2=new Game(2,"Brawl Stars",35);
@@ -18,6 +19,7 @@ public class Main {
 	 
        System.out.println("********Customer*******");
        customerManager.add(customer1);
+       customerManager.add(customer3);//customer is not valid hatası verilecek;
        customerManager.update(customer2);
        customerManager.delete(customer2);
        

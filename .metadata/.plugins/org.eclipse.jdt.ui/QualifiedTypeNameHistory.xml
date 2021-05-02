@@ -7,4 +7,5 @@
     <fullyQualifiedTypeName name="homework.logger.FileLogger"/>
     <fullyQualifiedTypeName name="Business.InstructorManager"/>
     <fullyQualifiedTypeName name="homework.logger.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
