@@ -34,4 +34,19 @@
     <fullyQualifiedTypeName name="business.concrete.AuthManager"/>
     <fullyQualifiedTypeName name="business.abstracts.EmailService"/>
     <fullyQualifiedTypeName name="business.concrete.EmailManager"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="springfox.documentation.spring.web.plugins.Docket"/>
+    <fullyQualifiedTypeName name="springfox.documentation.spi.DocumentationType"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.RequestHandlerSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.builders.PathSelectors"/>
+    <fullyQualifiedTypeName name="springfox.documentation.swagger2.annotations.EnableSwagger2"/>
+    <fullyQualifiedTypeName name="Kodlamaio.northwind.core.utilities.results.SuccessResult"/>
+    <fullyQualifiedTypeName name="Kodlamaio.northwind.core.utilities.results.DataResult"/>
+    <fullyQualifiedTypeName name="Kodlamaio.northwind.core.utilities.results.SuccessDataResult"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="Kodlamaio.northwind.core.utilities.results.Result"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
+    <fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
 </qualifiedTypeNameHistroy>
