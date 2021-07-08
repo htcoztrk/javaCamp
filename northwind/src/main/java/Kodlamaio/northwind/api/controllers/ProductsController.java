@@ -27,8 +27,7 @@ public class ProductsController {
 		super();
 		this.productService = productService;
 	}
-
-	@GetMapping("/getall")
+   @GetMapping("/getall")
    public DataResult<List<Product>> getAll(){
 	   return this.productService.getAll();
    }
@@ -36,4 +35,8 @@ public class ProductsController {
 	public Result add(@RequestBody Product product) {
 		return this.productService.add(product);
 	}
+	@GetMapping("/getByProductName")
+	   public DataResult<Product> getByProductName(String productName){
+		   return this.productService.getByProductName(productName);
+	   }
 }
